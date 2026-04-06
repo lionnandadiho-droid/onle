@@ -1,5 +1,5 @@
 body{
- background:#f3f3f3;
+ background:#d8eaba;
  color:#333;
  width:100%;
  font-family:sans-serif;
@@ -8,10 +8,10 @@ body{
 
 .header{
  width:90%;
- margin:auto;
- height:120px;
+ margin: 20 px auto 0 auto;
+ height:100px;
  line-height:120px;
- background:#417aa8;
+ background:#ffb6b9;
  color:#fff;
 }
 
