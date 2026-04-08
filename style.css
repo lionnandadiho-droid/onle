@@ -8,9 +8,9 @@ body{
 
 .header{
  width:90%;
- margin: 20px auto 0 auto;
+ margin:20px auto 0 auto;
  height:100px;
- line-height:100px;
+ line-height:120px;
  background:#ffb6b9;
  color:#fff;
 }
